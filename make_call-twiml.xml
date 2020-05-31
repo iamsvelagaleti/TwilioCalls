@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice"></Say>
+  <Pause length="10"/>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\5.wav</Play>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\5.wav</Play>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\9.wav</Play>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\8.wav</Play>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\6.wav</Play>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\9.wav</Play>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\8.wav</Play>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\9.wav</Play>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\3.wav</Play>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\9.wav</Play>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\p.wav</Play>
+  <Pause length="10"/>
+  <Play>C:\Users\iamsa\Desktop\Twilio\dtmf\1.wav</Play>
+  <Pause length="12"/>
+  <Hangup /> 
+</Response>
